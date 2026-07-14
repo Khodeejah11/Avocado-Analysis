@@ -67,13 +67,11 @@ The manual feature selection model outperformed the PCA approach, yielding highe
 
 
 ## Repository Structure
-```text```
 
 Avocado_project.ipynb
-|
+
 Full notebook containing EDA 
-|
+
 data restructuring, and modeling
 
-&#x20;README.md                # Project documentation
-
+README.md                
